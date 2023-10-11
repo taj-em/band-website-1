@@ -35,6 +35,21 @@ h2 {
   width: 18%;
   border-style: double;
   background-color: #8C92AC;
-  padding: 3px;
+  padding-top: -100px;
   margin-top: 50px;
+}
+
+.story {
+  text-align: center;
+}
+
+.history {
+  width: 500px;
+  float: right;
+  margin-right: 50px;
+  border-style: double;
+  margin-top: -15px;
+  line-height: 25px;
+  padding-top: -20px;
+  background-color: #8C92AC;
 }
