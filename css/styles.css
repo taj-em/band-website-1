@@ -21,3 +21,18 @@ hr {
 img {
   width: 250px;
 }
+
+h2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic;
+  font-weight: 100;
+  text-decoration: underline;
+  text-decoration-color: red;
+  text-decoration-thickness: 5px;
+}
+
+.sidebar {
+  width: 18%;
+  border-style: double;
+  background-color: #8C92AC;
+}
