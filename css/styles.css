@@ -35,4 +35,6 @@ h2 {
   width: 18%;
   border-style: double;
   background-color: #8C92AC;
+  padding: 3px;
+  margin-top: 50px;
 }
