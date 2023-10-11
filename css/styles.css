@@ -1,0 +1,23 @@
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic;
+  font-weight: 100;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
+hr {
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+.img {
+  float: right;
+  border-style: solid;
+  border-color: black;
+}
+
+img {
+  width: 250px;
+}
